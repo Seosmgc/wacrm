@@ -1,0 +1,12 @@
+.git
+.gitignore
+.next
+node_modules
+npm-debug.log*
+.env*.local
+README.md
+CHANGELOG.md
+CONTRIBUTING.md
+docs
+.github
+supabase
